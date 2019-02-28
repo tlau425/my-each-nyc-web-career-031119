@@ -11,4 +11,4 @@ array
 
 end
 
-my_each(collection) {|x| return x}
+my_each(collection) {|x| x}
